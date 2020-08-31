@@ -5,7 +5,7 @@ const Todos = () =>
     return(
 
         <div className = "todo">
-            <li className="todo-item">lallan tapp bhaiya</li>
+            <li className="todo-item">Make shift shift</li>
             <button className="complete-btn">
                 <i className = "fas fa-check"></i>
              </button>
